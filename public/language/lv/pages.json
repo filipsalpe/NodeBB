@@ -1,0 +1,15 @@
+{
+    "home": "Sākums",
+    "unread": "Nelasītas tēmas",
+    "popular": "Populāras tēmas",
+    "recent": "Jaunākās tēmas",
+    "users": "Reģistrētie lietotāji",
+    "notifications": "Paziņojumi",
+    "user.edit": "Labot \"%1\"",
+    "user.following": "%1 seko",
+    "user.followers": "%1 sekotāji",
+    "user.posts": "%1 pievienotie ziņojumi",
+    "user.topics": "%1 pievienotās tēmas",
+    "user.favourites": "%1 favorīti",
+    "user.settings": "Lietotāja iestatījumi"
+}

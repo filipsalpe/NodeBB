@@ -1,0 +1,18 @@
+{
+    "register": "Reģistrējies",
+    "help.email": "Tavs e-pasts nebūs redzams citiem lietotājiem.",
+    "help.username_restrictions": "Izvēlies brīvu lietotājvārdu no %1 līdz %2 simboliem. Citi varēs tevi pieminēt šādi: @<span id='yourUsername'>lietotajs</span>.",
+    "help.minimum_password_length": "Tavai parolei jāsatur vismaz %1 simboli.",
+    "email_address": "E-pasta adrese",
+    "email_address_placeholder": "Ievadi e-pasta adresi",
+    "username": "Lietotājvārds",
+    "username_placeholder": "Ievadi lietotājvārdu",
+    "password": "Parole",
+    "password_placeholder": "Ievadi paroli",
+    "confirm_password": "Parole atkārtoti",
+    "confirm_password_placeholder": "Ievadi paroli atkārtoti",
+    "register_now_button": "Reģistrēties",
+    "alternative_registration": "Citi reģistrēšanās veidi",
+    "terms_of_use": "Lietošanas noteikumi",
+    "agree_to_terms_of_use": "Es piekrītu lietošanas noteikumiem"
+}
