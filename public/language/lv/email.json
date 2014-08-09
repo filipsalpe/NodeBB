@@ -1,0 +1,20 @@
+{
+    "password-reset-requested": "Paroles atiestatīšana - %1!",
+    "welcome-to": "Laipni lūgts %1",
+    "greeting_no_name": "Sveiks",
+    "greeting_with_name": "Sveiks %1",
+    "welcome.text1": "Paldies par reģistrēšanos %1!",
+    "welcome.text2": "Lai pilnībā aktivizētu savu kontu, apstiprini e-pasta adresi.",
+    "welcome.cta": "Spied šeit, lai apstiprinātu savu e-pasta adresi",
+    "reset.text1": "Ir saņemts pieprasījums atiestatīt Tavu paroli. Ja neveici šo pieprasījumu, lūdzu ignorē šo e-pastu.",
+    "reset.text2": "Lai atiestatītu paroli, spied uz šī linka:",
+    "reset.cta": "Spied šeit, lai atiestatītu savu paroli",
+    "digest.notifications": "Tev ir nelasīti ziņojumi no %1:",
+    "digest.latest_topics": "Jaunākās tēmas no %1",
+    "digest.cta": "Spied šeit, lai dotos uz %1",
+    "digest.unsub.info": "Tu saņem šos jaunumus, jo esi pieteicies tos saņemt.",
+    "digest.unsub.cta": "Spied šeit, ja vēlies mainīt jaunumu saņemšanas iestatījumus",
+    "digest.daily.no_topics": "Pēdējās dienas laikā nav manīta neviena aktīva tēma",
+    "test.text1": "Šis ir testa e-pasts. Ja to saņēmi, forumam e-pasta nosūtīšana ir nokonfigurēta pareizi.",
+    "closing": "Paldies!"
+}

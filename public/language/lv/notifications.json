@@ -1,0 +1,23 @@
+{
+    "title": "Paziņojumi",
+    "no_notifs": "Tev nav jaunu paziņojumu",
+    "see_all": "Apskatīt visus paziņojumus",
+    "back_to_home": "Atpakaļ uz %1",
+    "outgoing_link": "Ārējs links",
+    "outgoing_link_message": "Tu dodies prom no %1.",
+    "continue_to": "Doties uz %1",
+    "return_to": "Atgriezties uz %1",
+    "new_notification": "Jauns paziņojums",
+    "you_have_unread_notifications": "Tev ir nelasīti paziņojumi.",
+    "new_message_from": "Jauns ziņojums no <strong>%1</strong>",
+    "upvoted_your_post": "<strong>%1</strong> uzslavēja tavu ziņojumu.",
+    "favourited_your_post": "<strong>%1</strong> pievienoja tavu ziņojumu favorītiem.",
+    "user_flagged_post": "<strong>%1</strong> ziņoja par spamu.",
+    "user_posted_to": "<strong>%1</strong> atbildēja uz: <strong>%2</strong>",
+    "user_mentioned_you_in": "<strong>%1</strong> pieminēja tevi <strong>%2</strong>",
+    "email-confirmed": "E-pasts apstiprināts",
+    "email-confirmed-message": "Paldies par e-pasta apstiprināšanu. Tavs konts ir pilnībā aktivizēts.",
+    "email-confirm-error": "Kļūda...",
+    "email-confirm-error-message": "Neizdevās apstiprināt Tavu e-pasta adresi. Lūdzu, pamēģini vēlrei.",
+    "email-confirm-sent": "Apstiprinājuma e-pasts nosūtīts."
+}

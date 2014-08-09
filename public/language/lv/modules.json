@@ -1,0 +1,18 @@
+{
+    "chat.chatting_with": "Saruna ar <span id=\"chat-with-name\"></span>",
+    "chat.placeholder": "Nosūtīt ziņojumu (spied enter lai nosūtītu)",
+    "chat.send": "Nosūtīt",
+    "chat.no_active": "Tev nav neviena aktīva saruna.",
+    "chat.user_typing": "%1 raksta ...",
+    "chat.user_has_messaged_you": "%1 tev nosūtīja ziņojumu.",
+    "chat.see_all": "Apskatīt visas sarunas",
+    "chat.no-messages": "Izvēlies lietotāju lai apskatītu sarunu vēsturi",
+    "chat.recent-chats": "Nesenas sarunas",
+    "chat.contacts": "Kontakti",
+    "chat.message-history": "Sarunu vēsture",
+    "chat.pop-out": "Rādīt sarunu logā",
+    "chat.maximize": "Rādīt sarunu lapā",
+    "composer.user_said_in": "%1 teica %2:",
+    "composer.user_said": "%1 teica:",
+    "composer.discard": "Vai tiešām vēlies izmest šo ziņojumu?"
+}
